@@ -1,11 +1,11 @@
 <?php
 
-namespace BeyondCode\Skeleton;
+namespace NGiraud\Skeleton;
 
 use Illuminate\Support\Facades\Facade;
 
 /**
- * @see \BeyondCode\Skeleton\SkeletonClass
+ * @see \NGiraud\Skeleton\SkeletonClass
  */
 class SkeletonFacade extends Facade
 {

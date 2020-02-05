@@ -1,6 +1,6 @@
 <?php
 
-namespace BeyondCode\Skeleton;
+namespace NGiraud\Skeleton;
 
 class SkeletonClass
 {

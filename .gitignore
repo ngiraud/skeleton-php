@@ -1,5 +1,13 @@
-build
+/.idea
+/vendor
+/node_modules
+/build
+/docs
+composer.phar
 composer.lock
-docs
-vendor
-coverage
+phpunit.xml
+.phpunit.result.cache
+.DS_Store
+Thumbs.db
+npm-debug.log
+yarn-error.log
